@@ -1,0 +1,36 @@
+id: riverbank-legal
+account: Riverbank Credit
+owner: Sam
+outcome: follow-up
+duration: 47
+tags: legal, replay, coaching
+
+# Legal review and data terms
+
+Rep: Thanks for making time. What changed since our last conversation at Riverbank Credit?
+Buyer: Legal needs terms that explain where comments and telemetry are stored.
+Rep: When that issue shows up, who feels the pain first?
+Buyer: Usually the engineering managers. They spend Friday afternoons re-checking the same pull request patterns.
+Rep: If the review load dropped, where would that time go?
+Buyer: Onboarding and release planning. Those are the two places we are behind.
+Rep: What would make the pilot feel credible to the team?
+Buyer: We need examples from our own repos, not a generic demo.
+Rep: That makes sense. We can replay the last month of merged work and summarize the themes.
+Buyer: The engineering director wants a clear answer before the security review.
+Rep: I can include that in a short packet with security notes, workflow impact, and owner-specific coaching themes.
+Buyer: That would help. The team does not want another dashboard that nobody reads.
+Rep: The report is meant to be a conversation starter. It calls out where reps handled discovery well and where next steps were vague.
+Buyer: Riverbank leadership will ask whether this changes how engineers work day to day.
+Rep: We can show that by comparing review themes before and after the pilot.
+Buyer: What do you need from us?
+Rep: Three representative repositories, a list of reviewers, and the outcomes you already track.
+Buyer: We can share that by Thursday.
+Rep: Great. Sam collects legal questions and books a follow-up with security.
+Buyer: Send the packet before the meeting and we will bring the right reviewers.
+
+Notes:
+- Buyer asked for evidence from their own workflow.
+- Objection centered on adoption, procurement, or security readiness.
+- Follow-up should include owner, date, and success criteria.
+- Manager coaching should distinguish discovery quality from next-step clarity.
+- Replay summary should be usable without logging into another tool.
