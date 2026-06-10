@@ -17,3 +17,8 @@ pnpm typecheck
 ## Review Notes
 
 Reviewers can use this repository to compare small, medium, and larger pull request diffs across the same sales-replay domain.
+
+
+## Manager Review
+
+Use `docs/manager-review-playbook.md` when turning replay reports into weekly coaching notes.
