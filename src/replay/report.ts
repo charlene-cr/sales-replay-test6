@@ -28,3 +28,8 @@ export function renderReport(
 
 	return lines.join("\n");
 }
+
+
+export function renderAccountContextLine(account: string, buyingMotion: string): string {
+	return `${account}: ${buyingMotion}`;
+}
